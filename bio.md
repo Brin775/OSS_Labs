@@ -1,2 +1,3 @@
-Name: Austen Ross
-Github ID: Brin775
+## Name: Austen Ross
+### Email: rossa6@rpi.edu
+### Github ID: Brin775
